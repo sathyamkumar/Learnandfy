@@ -1,9 +1,9 @@
-Install the requirements:\n
-  pip install django
+Install the requirements:
+pip install django
 
-Migrate the Database:\n
-  pip install makemigrations\n
-  pip install migrate\n
+Migrate the Database:
+pip install makemigrations
+pip install migrate
 
-Run the server:\n
-  python manage.py runserver
+Run the server:
+python manage.py runserver
